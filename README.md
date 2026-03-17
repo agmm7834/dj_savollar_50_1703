@@ -1,4 +1,4 @@
-### 💻 Django amaliy, qiyin testlar (50 ta, icontains va Q() ishlatilmagan)
+### 💻 Django amaliy, qiyin testlar 
 
 **1.** Quyidagi buyruqlar bajarildi. Natijada loyihada nima hosil bo‘ladi va qaysi fayl asosiy ishga tushiradi?
 
