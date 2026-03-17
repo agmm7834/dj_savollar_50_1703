@@ -1,4 +1,4 @@
-### 💻 Django amaliy, qiyin testlar 
+### 💻 Django savollar 50 ta
 
 **1.** Quyidagi buyruqlar bajarildi. Natijada loyihada nima hosil bo‘ladi va qaysi fayl asosiy ishga tushiradi?
 
